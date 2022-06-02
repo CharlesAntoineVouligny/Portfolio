@@ -1,0 +1,1 @@
+<link href="/Portfolio/media/icons/favicon.ico" rel="icon" type="image/">
